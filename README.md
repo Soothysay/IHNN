@@ -1,4 +1,4 @@
-# IHNN
+# Implicit Hypergraph Neural Network
 
 The data/ folder contains all the datasets as well as the intermediate hyperedge features needed for the 3 datasets, where the node features are initialized randomly.
 
